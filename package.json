@@ -1,0 +1,15 @@
+{
+  "name": "mood-ui",
+  "theme": "ui",
+  "version": "0.0.0",
+  "description": "A short description of your UI theme",
+  "keywords": [
+    "ui",
+    "theme"
+  ],
+  "repository": "https://github.com/arakilian0/mood-ui",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
