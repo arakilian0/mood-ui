@@ -4,16 +4,24 @@
 // Used to explore and open files in the current project.
 // Overrides: atom/tree-view
 
-
-.tree-view-resizer {
-  border-right: 1px solid @base-border-color;
-}
-
 .tree-view {
   color: @text-color;
   background-color: @tree-view-background-color;
+  font-size: 12px;
 
   .list-item.selected {
     color: @text-color-selected;
   }
+}
+
+atom-text-editor {
+  background: @base-background-color !important;
+}
+
+atom-dock .left atom-pane ul{
+  display: none;
+}
+atom-dock .right atom-pane {
+  // display: none;
+  background: @tree-view-background-color !important;
 }

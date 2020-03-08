@@ -2,8 +2,10 @@
   "name": "mood-ui",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A short description of your UI theme",
+  "description": "UI Theme for Atom, inspired by Youtube's Darkmode",
   "keywords": [
+    "atom",
+    "editor",
     "ui",
     "theme"
   ],

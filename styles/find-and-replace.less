@@ -1,9 +1,10 @@
-// Find + Replace
-// -------------------
-
-// Find and replace in the current buffer or across the entire project.
-// Overrides: atom/find-and-replace
-
+.project-find,
 .find-and-replace {
   border-top: 1px solid @base-border-color;
+  background: @base-background-color !important;
+  & .input-block {
+    border: 1px solid @base-border-color !important;
+    border-radius: @component-border-radius;
+    margin: 4px 0;
+  }
 }

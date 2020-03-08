@@ -1,6 +1,30 @@
-# :black_square_button: mood-ui
+# Mood UI
+**UI Theme for Atom, inspired by Youtube's Darkmode**
 
-**more coming soon...**
+## Install
+Fire up a console and type:
+```bash
+apm install mood-ui
+```
+Or, inside Atom's settings select Install and then search for this package.
+
+## Build it Yourself
+To build and test it yourself you need two things installed locally. This repository and [Atom](https://atom.io).
+##### Install
+```bash
+git clone https://github.com/arakilian0/mood-ui.git
+```
+##### Open in Development Mode
+When you open Atom like this: `atom .` that opens the Atom editor in a so called "production" environment. Use the following flag to open Atom in a "developement" environment, which offers live reload.
+```bash
+atom --dev .
+```
+##### Force Reload
+If for some reason you made a change that you know forsure should have rendered a difference, but the change was not rendered, try reloading Atom.
+```javascript
+// While in the Atom editor trigger the following keyboard shortcut
+Ctrl+Command+Alt+L
+```
 
 ## License
 MIT License
