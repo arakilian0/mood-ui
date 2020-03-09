@@ -20,9 +20,8 @@ When you open Atom like this: `atom .` that opens the Atom editor in a so called
 atom --dev .
 ```
 ##### Force Reload
-If for some reason you made a change that you know forsure should have rendered a difference, but the change was not rendered, try reloading Atom.
+If for some reason you made a change that you know forsure should have rendered a difference, but the change was not rendered, try reloading Atom. While in the Atom editor trigger the following keyboard shortcut:
 ```javascript
-// While in the Atom editor trigger the following keyboard shortcut
 Ctrl+Command+Alt+L
 ```
 
