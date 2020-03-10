@@ -1,5 +1,7 @@
 # Mood UI
 **UI Theme for Atom, inspired by Youtube's Darkmode**
+-
+![alt text](https://raw.githubusercontent.com/arakilian0/images/master/mood-ui-usage.png "Mood UI")
 
 ## Install
 Fire up a console and type:

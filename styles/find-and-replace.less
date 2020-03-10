@@ -2,6 +2,10 @@
 .find-and-replace {
   border-top: 1px solid @base-border-color;
   background: @base-background-color !important;
+  atom-text-editor[mini] {
+    border: 0 !important;
+  }
+
   & .input-block {
     border: 1px solid @base-border-color !important;
     border-radius: @component-border-radius;
