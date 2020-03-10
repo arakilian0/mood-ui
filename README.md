@@ -19,6 +19,7 @@ git clone https://github.com/arakilian0/mood-ui.git
 ##### Open in Development Mode
 When you open Atom like this: `atom .` that opens the Atom editor in a so called "production" environment. Use the following flag to open Atom in a "developement" environment, which offers live reload.
 ```
+cd mood-ui
 atom --dev .
 ```
 ##### Force Reload
