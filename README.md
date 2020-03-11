@@ -1,6 +1,6 @@
 # Mood UI
 **UI Theme for Atom, inspired by Youtube's Darkmode**
--
+
 ![alt text](https://raw.githubusercontent.com/arakilian0/images/master/mood-ui-usage2.png "Mood UI Theme")
 
 ## Install
@@ -8,10 +8,10 @@ Fire up a console and type:
 ```
 apm install mood-ui
 ```
-Or, inside Atom's settings select Install and then search for this package.
+Or, inside Atom's settings select Install, then select 'Themes', and then search for this package.
 
 ## Build it Yourself
-To build and test it yourself you need two things installed locally. This repository and [Atom](https://atom.io).
+To build and test it yourself you need two things installed locally. This repository and [Atom](https://atom.io). After you have Atom installed go ahead follow the next steps.
 ##### Install
 ```
 git clone https://github.com/arakilian0/mood-ui.git
