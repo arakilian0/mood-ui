@@ -5,8 +5,8 @@
 // Overrides: atom/tabs
 
 .tab-bar {
-  background-color: @tab-bar-background-color;
-  border-bottom: 1px solid @base-border-color;
+  // background-color: @tab-bar-background-color;
+  // border-bottom: 1px solid @base-border-color;
   border-radius: 0;
 
   .tab {
@@ -54,4 +54,12 @@
       }
     }
   }
+}
+
+.atom-dock-content-wrapper .right atom-pane-container atom-pane {
+  background: red !important;
+}
+
+ul.tab-bar[location="right"] {
+  display: none !important;
 }
