@@ -4,7 +4,7 @@ atom-text-editor[mini] {
   border-radius: @component-border-radius;
   background-color: @input-background-color;
   border: 1px solid @base-border-color;
-  
+
   &.is-focused {
     background-color: darken(@input-background-color, 5%);
   }
@@ -15,4 +15,8 @@ atom-text-editor[mini] {
   .selection .region {
     background-color: @background-color-selected;
   }
+}
+
+atom-text-editor {
+  background: @base-background-color !important;
 }
