@@ -10,6 +10,7 @@
     "dark",
     "theme"
   ],
+  "author": "Michael Arakilian <arakilian0@gmail.com>",
   "repository": "https://github.com/arakilian0/mood-ui",
   "license": "MIT",
   "engines": {
