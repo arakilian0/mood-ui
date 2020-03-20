@@ -23,7 +23,7 @@ cd mood-ui
 atom --dev .
 ```
 ##### Force Reload
-If for some reason you made a change that you know for sure should have rendered a difference, but the change was not rendered, try reloading Atom. While in the Atom editor trigger the following keyboard shortcut:
+If your encountering bugs try a Force Reload. While in the Atom editor trigger the following keyboard shortcut:
 ```
 Ctrl+Command+Alt+L
 ```
